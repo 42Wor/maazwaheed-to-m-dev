@@ -520,8 +520,8 @@ form input, form textarea, form select {
 }
 .server1 {
   position: absolute;
-  margin-left: -80px;
-  margin-top: 20px;
+  margin-left: -50px;
+  margin-top: -40px;
 }
 .server2 {
   position: absolute;
