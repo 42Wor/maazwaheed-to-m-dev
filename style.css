@@ -521,7 +521,7 @@ form input, form textarea, form select {
 .server1 {
   position: absolute;
   margin-left: -50px;
-  margin-top: -40px;
+  margin-top: 40px;
 }
 .server2 {
   position: absolute;
@@ -530,7 +530,7 @@ form input, form textarea, form select {
 }
 .server3 {
   position: absolute;
-  margin-left: 30px;
+  margin-left: 59px;
   margin-top: 20px;
 } 
 
